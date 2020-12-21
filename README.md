@@ -6,12 +6,12 @@ RESUMEN El objetivo es diseñar una aplicación paso a paso, describiendo en el 
 
 ![ModelDesign](ModelDesign.png)
 
-![Gallery](C:\20486D\Allfiles\Mod02\Labfiles\DesignProject\Gallery.png)
+![Gallery](Gallery.png)
 
 
 
 
 
-![Photo](C:\20486D\Allfiles\Mod02\Labfiles\DesignProject\Photo.png)
+![Photo](Photo.png)
 
 PROBLEMAS No
